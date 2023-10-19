@@ -2,7 +2,7 @@
   "name": "one-click-hugo-cms",
   "version": "1.0.0",
   "description": "Hugo template with Decap CMS ",
-  "repository": "decaporg/one-click-hugo-cms",
+  "repository": "serbia580/stack",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src cypress",
